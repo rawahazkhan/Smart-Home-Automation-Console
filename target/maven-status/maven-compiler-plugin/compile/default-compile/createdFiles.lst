@@ -1,0 +1,6 @@
+com\mycompany\smarthomeconsole\Light.class
+com\mycompany\smarthomeconsole\Fan.class
+com\mycompany\smarthomeconsole\AirConditioner.class
+com\mycompany\smarthomeconsole\SmartHomeConsole.class
+com\mycompany\smarthomeconsole\Device.class
+com\mycompany\smarthomeconsole\SmartHomeSystem.class
