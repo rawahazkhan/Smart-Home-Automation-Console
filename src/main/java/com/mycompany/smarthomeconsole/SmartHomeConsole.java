@@ -1,4 +1,3 @@
-
 package com.mycompany.smarthomeconsole;
 import java.util.ArrayList;
 import java.util.Scanner;
