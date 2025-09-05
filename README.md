@@ -29,22 +29,6 @@ SHAC 2.0 is a **console-driven home automation simulation system**.
 
 ---
 
-📂 Project Structure  
-```
-
-src/
-└── com.mycompany.smarthomeconsole/
-├── Device.java           # Abstract parent class
-├── Light.java            # Light device with brightness control
-├── Fan.java              # Fan device with speed settings
-├── AirConditioner.java   # AC device with temp & mode settings
-├── SmartHomeSystem.java  # Core system handling devices & authentication
-└── SmartHomeConsole.java # Main class (entry point with UI)
-
-````
-
----
-
 🛠️ Technologies & Tools  
 - **Language:** Java  
 - **Paradigm:** Object-Oriented Programming (OOP)  
@@ -88,5 +72,3 @@ Login successful! Welcome back to SHAC 2.0.
 [8] Logout
 Select an option (1-8):
 ```
-
----
