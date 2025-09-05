@@ -1,5 +1,5 @@
 🏠 Smart Home Automation Console (SHAC 2.0)
-This project is a Java-based **Smart Home Automation Console (SHAC 2.0)** that simulates controlling home devices such as lights, fans, and air conditioners. It provides a secure login system, device management, adjustable settings, and a console-based interactive menu — all built using Object-Oriented Programming (OOP) principles.
+This project is a Java-based **Smart Home Automation Console (SHAC 2.0)** that simulates controlling home devices such as lights, fans, and air conditioners. It provides a secure login system, device management, adjustable settings, and a console-based interactive menu all built using Object-Oriented Programming (OOP) principles.
 
 ---
 
